@@ -1,0 +1,53 @@
+---
+title: "Palangka Now"
+description: "Palangka Now (palangkanow) adalah blog publik warga Palangka Raya. Jika Anda warga Palangka Raya, maka Anda dapat berpartisipasi."
+---
+{% include head.html %}
+
+<div class="">
+  
+<div class="search-container margin-atas margin-bawah">
+<div class="search-box">
+<input type="text" id="search-input" placeholder="Cari">
+</div>
+<div id="search-results">
+<ul id="results-container"></ul>
+</div>
+</div>
+  
+<div class="margin-bawah"><div class="badan overflow-x-auto">{% include status.html %}</div></div>
+  
+<div class="">
+  <div class="">
+  
+    <div class="badan">
+
+{% include galeri.html %}
+  
+<div class="lemari margin-bawah">
+<div class="rak">
+{% for post in site.categories.artikel limit:20 %}
+<div class="laci">
+<a href="{{ site.url }}{{ post.url }}">
+<div class="item">
+<h1>{{ post.title }}</h1>
+<p>{{ post.description }}</p>
+</div>
+</a>
+</div>
+{% endfor %}
+</div>
+</div>
+  
+{% include footer.html %}
+</div>
+<script> var map = {}; onkeydown = onkeyup = function(e) { e = e || event; map[e.keyCode] = e.type == "keydown"; if (map["191"] == true) { e.preventDefault(); var elm = document.getElementById("search-input"); elm.focus(); } if (map["27"] == true) { e.preventDefault(); var elm = document.getElementById("search-input"); elm.blur(); } };</script>
+<script src="{{site.url}}/files/search-script.js" type="text/javascript"></script>
+<script> SimpleJekyllSearch({ searchInput: document.getElementById("search-input"), resultsContainer: document.getElementById("results-container"), searchResultTemplate: '<a href="{url}"><li>{title}</li></a>', noResultsText: "<li><p>No results found!</p></li>", limit: 20, json: "{{site.url}}/search.json" });</script>
+    
+  </div>
+</div>
+</div>
+
+</body>
+</html>
