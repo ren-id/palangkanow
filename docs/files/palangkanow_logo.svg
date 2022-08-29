@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="127mm"
+   height="127mm"
+   viewBox="0 0 127 127"
+   version="1.1"
+   id="svg1136"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="palangkanow_logo.svg"
+   inkscape:export-filename="icon1000.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1138"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.47482464"
+     inkscape:cx="454.90478"
+     inkscape:cy="276.94435"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1133" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(15.021578,12.792683)">
+    <g
+       id="g660"
+       transform="translate(-353.15671,-82.127095)"
+       inkscape:export-filename="logo_palangkanow_56px.png"
+       inkscape:export-xdpi="11.2"
+       inkscape:export-ydpi="11.2">
+      <rect
+         style="fill:#000000;stroke-width:0.285097"
+         id="rect504"
+         width="127"
+         height="127"
+         x="338.13513"
+         y="69.334412" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.377304"
+         id="rect558"
+         width="84.666664"
+         height="4.2333331"
+         x="359.30179"
+         y="140.5928" />
+      <path
+         id="path612"
+         style="fill:#ffffff;stroke-width:0.29305"
+         d="m 405.86849,116.95941 a 31.75,31.75 0 0 0 -31.75,31.75 h 4.23334 a 27.516666,27.516666 0 0 1 27.51666,-27.51666 27.516666,27.516666 0 0 1 27.51667,27.51666 h 4.23333 a 31.75,31.75 0 0 0 -31.75,-31.75 z" />
+      <path
+         id="path620"
+         style="fill:#ffffff;stroke-width:0.29305"
+         d="m 397.4018,116.95941 a 31.75,31.75 0 0 0 -31.75,31.75 h 4.23334 a 27.516666,27.516666 0 0 1 27.51666,-27.51666 27.516666,27.516666 0 0 1 27.51667,27.51666 h 4.23333 a 31.75,31.75 0 0 0 -31.75,-31.75 z" />
+    </g>
+  </g>
+</svg>
