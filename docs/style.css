@@ -346,3 +346,8 @@ left: 0;
 .logo-box {
 padding: 8px 8px 8px 8px;
 }
+
+.logo-box img {
+    display:block;
+    margin: 0 auto 0 auto;
+}
