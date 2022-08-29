@@ -342,3 +342,7 @@ left: 0;
 .container{}
 .left-container{}
 .right-container{}
+
+.logo-box {
+padding: 8px 8px 8px 8px;
+}
